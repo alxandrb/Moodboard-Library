@@ -1,5 +1,5 @@
 # Librairie de directions artistiques
-
+https://alxandrb.github.io/Moodboard-Library/
 **30 mood boards prêts à coller, pour lancer un design de site sans repartir de zéro.**
 
 Un fichier HTML autonome. On l'ouvre dans un navigateur, on parcourt des aperçus de site rendus en direct dans leur propre style, on en retient une à trois, et on récupère un brief structuré à coller dans Claude Design.
